@@ -34,5 +34,4 @@ Os usuários podem inserir informações como nome, equipe, pontuações em corr
 - Arthur Galvão Alves - RM554462 
 - Eduardo da Silva Lima - RM554804 
 - Felipe Braunstein e Silva - RM554483
-- Felipe do Nascimento Fernandes - RM554598
 - Jefferson Junior Alvarez Urbina - RM558497
